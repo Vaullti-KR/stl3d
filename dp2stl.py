@@ -14,9 +14,9 @@ Each square of four pixels is divided into two triangles
 
 Processing time is ~2min per megapixel
 
-Project is at https://github.com/BillFSmith/depth_map_to_stl
+Project is at https://github.com/Vaullti-KR/stl3d.git
 
-Example depth map from https://johnflower.org/sites/default/files/2018-07/08-new-plymouth-15m-dem-n-mt-taranaki_5.png
+Example depth map from https://github.com/Vaullti-KR/stl3d/blob/main/1723121488121.jpg
 """
 
 #@title Press Ctrl + F9 to run code
